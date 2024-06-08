@@ -1,6 +1,6 @@
 
 
-This is a repository for my portfolio webpage hosted on GitHub at https://lasithagp.github.io/portfolio/ 
+This is the repository for my portfolio webpage hosted on GitHub at https://lasithagp.github.io/portfolio/ 
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
